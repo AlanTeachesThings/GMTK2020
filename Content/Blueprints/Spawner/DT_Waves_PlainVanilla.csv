@@ -1,0 +1,10 @@
+---,Level,AI Type,Amount,TimeBetweenSpawns,StartDelay,WaitForWaveCompleteBeforeNextWave
+Wave1.1,1,BlueprintGeneratedClass'/Game/Characters/Enemy/Swarmer/BP_Swarmer.BP_Swarmer_C',3,0.500000,0.000000,False
+Wave1.2,1,BlueprintGeneratedClass'/Game/Characters/Enemy/Swarmer/BP_Swarmer.BP_Swarmer_C',3,2.000000,0.000000,True
+Wave1.3,1,BlueprintGeneratedClass'/Game/Characters/Enemy/Swarmer/BP_Swarmer.BP_Swarmer_C',3,0.500000,0.000000,True
+Wave2.1,2,BlueprintGeneratedClass'/Game/Characters/Enemy/Swarmer/BP_Swarmer.BP_Swarmer_C',3,0.500000,0.000000,True
+Wave3.1,3,BlueprintGeneratedClass'/Game/Characters/Enemy/Swarmer/BP_Swarmer.BP_Swarmer_C',3,0.500000,0.000000,True
+Wave4.1,4,BlueprintGeneratedClass'/Game/Characters/Enemy/Swarmer/BP_Swarmer.BP_Swarmer_C',3,0.500000,0.000000,True
+Wave5.1,5,BlueprintGeneratedClass'/Game/Characters/Enemy/Swarmer/BP_Swarmer.BP_Swarmer_C',3,0.500000,0.000000,True
+Wave5.2,5,BlueprintGeneratedClass'/Game/Characters/Enemy/Swarmer/BP_Swarmer.BP_Swarmer_C',6,0.200000,0.000000,False
+Wave5.3,6,BlueprintGeneratedClass'/Game/Characters/Enemy/Swarmer/BP_Swarmer.BP_Swarmer_C',3,0.200000,0,True
